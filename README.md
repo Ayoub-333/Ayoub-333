@@ -24,7 +24,9 @@
 
 <h2>⚡️ Where to Find Me</h2>
 <p>
+  <a href="https://www.facebook.com/ayoubmeguellati.ayoubmeguellat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/ayoub__meguellati/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/Ayoubmeguellat8" target="_blank"><img src="https://img.shields.io/badge/X-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://www.linkedin.com/in/ayoub-meguellati-2bb708336/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/ayoub__meguellati/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com//u/ayoub-333/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
